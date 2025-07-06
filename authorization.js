@@ -1,5 +1,5 @@
 (function () {
-  const enabled = false;
+  const enabled = true;
 
   if (document.getElementById("blockwall-overlay")) return;
 
